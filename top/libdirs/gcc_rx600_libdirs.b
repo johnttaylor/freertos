@@ -8,4 +8,5 @@ src
 
 # Platform Specific
 src/portable/GCC/RX600
-src/portable/MemMang
+
+# Note: The 'Memory Management' implemenation is platform specific -->see your BSP
