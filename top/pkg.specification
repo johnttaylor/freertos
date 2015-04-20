@@ -1,9 +1,9 @@
 [info]
 name = colony.freertos
 branch = main
-version = 8.2.0
-pubtime = 1426823972
-pubtimelocal = Thu, 19 Mar 2015 22:59:32
+version = 8.2.1
+pubtime = 1429489292
+pubtimelocal = Sun, 19 Apr 2015 19:21:32
 desc = Colony.FreeRTOS package is an Outcat'ized distribution of the FreeRTOS kernel
 owner = Real Time Engineers Ltd.
 email = John.T.Taylor@gmail.com

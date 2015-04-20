@@ -1,3 +1,6 @@
 ~~~~~; 1426823972; Thu, 19 Mar 2015 22:59:32; PUBLISH; DaVinci <build.machine@noemail.com>; 8.2.0; main; OUTCAST_freertos-main-8.2.0; Outcast release of FreeRTOS v8.2.0
 
 
+~~~~~; 1429489292; Sun, 19 Apr 2015 19:21:32; PUBLISH; DaVinci <build.machine@noemail.com>; 8.2.1; main; OUTCAST_freertos-main-8.2.1; fix to build list (exclude the MemMang/ directory -->now handled by the BSPs) 
+
+
