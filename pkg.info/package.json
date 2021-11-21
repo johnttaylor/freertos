@@ -16,14 +16,15 @@
       "name": "freertos",
       "type": "git",
       "origin": "https://github.com/johnttaylor"
-    }
+    },
+    "pkgname": "freertos"
   },
   "publish": {
     "current": {
       "comment": "Publish as Outcast2 package",
       "version": "8.2.1",
-      "date": "Sun Nov 21 21:21:20 2021",
-      "timestamp": 1637529680
+      "date": "Sun Nov 21 22:58:05 2021",
+      "timestamp": 1637535485
     },
     "history": []
   }
